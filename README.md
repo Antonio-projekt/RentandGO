@@ -14,5 +14,6 @@ Stranica za rentanje motornih vozila
 
 https://github.com/mpajkovi/RentandGO.git
 
-Matteo je radio dizajn u figmi i html
+Matteo je radio dizajn u figmi i html,
+
 Ja sam radio css js i malo htmla
